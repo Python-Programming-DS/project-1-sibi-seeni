@@ -1,5 +1,5 @@
 # File : SS_Connect4.py
-# Date : 09/20/2025
+# Date : 09/21/2025
 #   A program to play Connect4
 #
 #   by : Sibi Seenivasan
